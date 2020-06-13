@@ -1,6 +1,6 @@
 {
   "name": "PyroGramUserBot",
-  "description": "PyroGram UserBot. Powered by @UserBotTalk",
+  "description": "PyroGram UserBot.",
   "keywords": [
     "telegram",
     "best",
@@ -12,9 +12,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/SpEcHiDe/PyroGramUserBot",
+  "repository": "https://github.com/prgofficial/PyroGramUserBot",
   "success_url": "https://telegram.dog/UserBotTalk",
-  "website": "https://github.com/SpEcHiDe/PyroGramUserBot",
+  "website": "https://github.com/prgofficial/PyroGramUserBot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
